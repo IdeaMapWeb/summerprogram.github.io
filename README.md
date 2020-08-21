@@ -1,2 +1,3 @@
 # summerprogram.github.io
-# inde2.html
+# Source Code:https://github.com/IdeaMapWeb/summerprogram.github.io
+# VS/IDEを使って、このソースコードをコピペし、試してみてください。
