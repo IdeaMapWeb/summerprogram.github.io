@@ -1,3 +1,1 @@
 # themechanges-todolist-project
-
-# ...
