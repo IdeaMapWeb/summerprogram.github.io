@@ -1,3 +1,3 @@
-# summerprogram.github.io
+# themechanges-todolist-project
 # Source Code:https://github.com/IdeaMapWeb/summerprogram.github.io
-# VS/IDEを使って、このソースコードをコピペし、試してみてください。
+# ...
